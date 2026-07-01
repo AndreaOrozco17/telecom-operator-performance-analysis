@@ -1,6 +1,6 @@
 # 📊 Análisis del desempeño de operadores de telecomunicaciones
 
-![Dashboard](C:\Users\andre\OneDrive - Lambton College\Documents\Data Analyst\Sprint 15\Proyecto Final _ AO\telecom-operator-performance-analysis\images\dashboard-principal.png)
+![Dashboard](images/dashboard-principal.png)
 
 ## Descripción
 

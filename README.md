@@ -1,6 +1,6 @@
 # 📊 Análisis del desempeño de operadores de telecomunicaciones
 
-![Dashboard](images/dashboard-principal.png)
+![Dashboard](dashboard-principal.png)
 
 ## Descripción
 
